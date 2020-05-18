@@ -1,0 +1,39 @@
+{
+  "banners": [
+    {
+      "image": {
+        "image_link": "https://via.placeholder.com/200x300/0000FF",
+        "title": "title1",
+        "description": "description1"
+      }
+    },
+    {
+      "image": {
+        "image_link": "https://via.placeholder.com/200x300/FF0000",
+        "title": "title2",
+        "description": "description2"
+      }
+    },
+    {
+      "image": {
+        "image_link": "https://via.placeholder.com/200x300/00FF00",
+        "title": "title3",
+        "description": "description"
+      }
+    },
+    {
+      "image": {
+        "image_link": "https://via.placeholder.com/200x300/FFFF00",
+        "title": "title4",
+        "description": "description"
+      }
+    },
+    {
+      "image": {
+        "image_link": "https://via.placeholder.com/200x300/00FFFF",
+        "title": "title5",
+        "description": "description"
+      }
+    }
+  ]
+}

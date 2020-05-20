@@ -2,7 +2,7 @@
   "banners": [
     {
       "image": {
-        "image_link": "https://via.placeholder.com/700x500/0000FF",
+        "image_link": "https://i.ibb.co/zr6vzKw/banner-320x100-5ec566505841c.png",
         "title": "title1",
         "description": "description1",
         "web_link":"https://uidai.gov.in/"
@@ -26,7 +26,7 @@
     },
     {
       "image": {
-        "image_link": "https://via.placeholder.com/200x300/FFFF00",
+        "image_link": "https://i.ibb.co/tYGP0PX/banner-pension.png",
         "title": "title4",
         "description": "description",
         "web_link":"https://www.pmjay.gov.in/"
@@ -34,10 +34,10 @@
     },
     {
       "image": {
-        "image_link": "https://via.placeholder.com/200x300/00FFFF",
+        "image_link": "https://i.ibb.co/HFr4Ljc/banner-320x100-5ec568587cb64.png",
         "title": "title5",
         "description": "description",
-        "web_link":"http://ddugky.gov.in/"
+        "web_link":"https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu"
       }
     }
   ]

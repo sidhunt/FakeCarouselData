@@ -10,22 +10,6 @@
     },
     {
       "image": {
-        "image_link": "https://via.placeholder.com/200x300/FF0000",
-        "title": "title2",
-        "description": "description2",
-        "web_link":"https://www.npscra.nsdl.co.in/scheme-details.php#"
-      }
-    },
-    {
-      "image": {
-        "image_link": "https://via.placeholder.com/200x300/00FF00",
-        "title": "title3",
-        "description": "description",
-        "web_link":"http://ujala.gov.in/"
-      }
-    },
-    {
-      "image": {
         "image_link": "https://i.ibb.co/tYGP0PX/banner-pension.png",
         "title": "title4",
         "description": "description",
